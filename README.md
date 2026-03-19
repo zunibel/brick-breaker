@@ -1,2 +1,2 @@
-# brick-breaker
+# brickbreaker
 game test
